@@ -1,4 +1,4 @@
-# OSS Git class
+# OSS Git very fun class
 
 Welcome to my repository. **Have fun!!**.
 
